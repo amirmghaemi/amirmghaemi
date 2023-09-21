@@ -11,8 +11,8 @@
     <img id="preview" src="https://komarev.com/ghpvc/?username=amirmghaemi&color=blueviolet&style=for-the-badge">
 </p>
 <p align="center">
-    <a href="https://github.com/amirmghaemi"><img width="48%" src="https://github-readme-stats-amirmghaemi.vercel.app/api?username=amirmghaemi&show_icons=true&theme=tokyonight&hide=stars,issues&hide_rank=true&include_all_commits=true&bg_color=101010&border_radius=50"></a>
-    <a href="https://github.com/amirmghaemi"><img width="48%" src="https://github-readme-stats-amirmghaemi.vercel.app/api/top-langs?username=amirmghaemi&theme=tokyonight&hide=html,css,cmake&layout=compact&langs_count=6&bg_color=101010&hide_title=false&hide_progress=true&border_radius=50"></a>
+    <a href="https://github.com/amirmghaemi"><img width="48%" src="github-readme-stats-orpin-five-17.vercel.app/api?username=amirmghaemi&show_icons=true&theme=tokyonight&hide=stars,issues&hide_rank=true&include_all_commits=true&bg_color=101010&border_radius=50"></a>
+    <a href="https://github.com/amirmghaemi"><img width="48%" src="github-readme-stats-orpin-five-17.vercel.app/api/top-langs?username=amirmghaemi&theme=tokyonight&hide=html,css,cmake&layout=compact&langs_count=6&bg_color=101010&hide_title=false&hide_progress=true&border_radius=50"></a>
 </p>
 <p align="center">
     <a href="https://github.com/amirmghaemi"><img width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=amirmghaemi&layout=compact"></a>
